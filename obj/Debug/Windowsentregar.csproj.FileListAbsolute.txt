@@ -1,0 +1,150 @@
+C:\Users\aby casa\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe.config
+C:\Users\aby casa\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe
+C:\Users\aby casa\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.pdb
+C:\Users\aby casa\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Proyecto de pro.dll
+C:\Users\aby casa\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Proyecto de pro.pdb
+C:\Users\aby casa\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.csprojResolveAssemblyReference.cache
+C:\Users\aby casa\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.planilla.resources
+C:\Users\aby casa\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.Properties.Resources.resources
+C:\Users\aby casa\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.csproj.GenerateResource.Cache
+C:\Users\aby casa\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.exe
+C:\Users\aby casa\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.pdb
+C:\Users\aby casa\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\You Win.exe
+C:\Users\aby casa\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\You Win.pdb
+C:\Users\aby casa\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Perdedor.exe
+C:\Users\aby casa\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Perdedor.pdb
+F:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe.config
+F:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.exe
+F:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.pdb
+F:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe
+F:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.pdb
+F:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Perdedor.exe
+F:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Proyecto de pro.dll
+F:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\You Win.exe
+F:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Perdedor.pdb
+F:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Proyecto de pro.pdb
+F:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\You Win.pdb
+F:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.csprojResolveAssemblyReference.cache
+F:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.planilla.resources
+F:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.Properties.Resources.resources
+F:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.csproj.GenerateResource.Cache
+G:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe.config
+G:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe
+G:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.pdb
+G:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Perdedor.exe
+G:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Proyecto de pro.dll
+G:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\You Win.exe
+G:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Perdedor.pdb
+G:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Proyecto de pro.pdb
+G:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\You Win.pdb
+G:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.csprojResolveAssemblyReference.cache
+G:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.planilla.resources
+G:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.Properties.Resources.resources
+G:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.csproj.GenerateResource.Cache
+G:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.exe
+G:\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.pdb
+C:\Users\mala\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe.config
+C:\Users\mala\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.exe
+C:\Users\mala\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.pdb
+C:\Users\mala\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe
+C:\Users\mala\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.pdb
+C:\Users\mala\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Perdedor.exe
+C:\Users\mala\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Proyecto de pro.dll
+C:\Users\mala\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\You Win.exe
+C:\Users\mala\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Perdedor.pdb
+C:\Users\mala\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\Proyecto de pro.pdb
+C:\Users\mala\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\bin\Debug\You Win.pdb
+C:\Users\mala\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.csprojResolveAssemblyReference.cache
+C:\Users\mala\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.planilla.resources
+C:\Users\mala\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.Properties.Resources.resources
+C:\Users\mala\Desktop\Proyecto de pro a entregar\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.csproj.GenerateResource.Cache
+H:\Proyecto de pro a entregar cambios marla\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe.config
+H:\Proyecto de pro a entregar cambios marla\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.exe
+H:\Proyecto de pro a entregar cambios marla\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.pdb
+H:\Proyecto de pro a entregar cambios marla\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe
+H:\Proyecto de pro a entregar cambios marla\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.pdb
+H:\Proyecto de pro a entregar cambios marla\Proyecto de pro\Windowsentregar\bin\Debug\Perdedor.exe
+H:\Proyecto de pro a entregar cambios marla\Proyecto de pro\Windowsentregar\bin\Debug\Proyecto de pro.dll
+H:\Proyecto de pro a entregar cambios marla\Proyecto de pro\Windowsentregar\bin\Debug\You Win.exe
+H:\Proyecto de pro a entregar cambios marla\Proyecto de pro\Windowsentregar\bin\Debug\Perdedor.pdb
+H:\Proyecto de pro a entregar cambios marla\Proyecto de pro\Windowsentregar\bin\Debug\Proyecto de pro.pdb
+H:\Proyecto de pro a entregar cambios marla\Proyecto de pro\Windowsentregar\bin\Debug\You Win.pdb
+H:\Proyecto de pro a entregar cambios marla\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.csprojResolveAssemblyReference.cache
+H:\Proyecto de pro a entregar cambios marla\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.planilla.resources
+H:\Proyecto de pro a entregar cambios marla\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.Properties.Resources.resources
+H:\Proyecto de pro a entregar cambios marla\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.csproj.GenerateResource.Cache
+H:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe.config
+H:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.exe
+H:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.pdb
+H:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe
+H:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.pdb
+H:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\bin\Debug\Perdedor.exe
+H:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\bin\Debug\Proyecto de pro.dll
+H:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\bin\Debug\You Win.exe
+H:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\bin\Debug\Perdedor.pdb
+H:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\bin\Debug\Proyecto de pro.pdb
+H:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\bin\Debug\You Win.pdb
+H:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.csprojResolveAssemblyReference.cache
+H:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.planilla.resources
+H:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.Properties.Resources.resources
+H:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.csproj.GenerateResource.Cache
+G:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe.config
+G:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.exe
+G:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.pdb
+G:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe
+G:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.pdb
+G:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\bin\Debug\Perdedor.exe
+G:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\bin\Debug\Proyecto de pro.dll
+G:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\bin\Debug\You Win.exe
+G:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\bin\Debug\Perdedor.pdb
+G:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\bin\Debug\Proyecto de pro.pdb
+G:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\bin\Debug\You Win.pdb
+G:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.csprojResolveAssemblyReference.cache
+G:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.planilla.resources
+G:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.Properties.Resources.resources
+G:\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.csproj.GenerateResource.Cache
+E:\Study\Mi primer proyecto y otros\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe.config
+E:\Study\Mi primer proyecto y otros\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.exe
+E:\Study\Mi primer proyecto y otros\Proyecto de pro a entregar Manuel Martinez cc112\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.pdb
+E:\Study\1Ro\Conferencias - Pro y Materiales Aux\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe.config
+E:\Study\1Ro\Conferencias - Pro y Materiales Aux\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.exe
+E:\Study\1Ro\Conferencias - Pro y Materiales Aux\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.pdb
+D:\Study\1Ro\Conferencias - Pro y Materiales Aux\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe.config
+D:\Study\1Ro\Conferencias - Pro y Materiales Aux\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.exe
+D:\Study\1Ro\Conferencias - Pro y Materiales Aux\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.pdb
+D:\Study\1Ro\Conferencias - Pro y Materiales Aux\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe
+D:\Study\1Ro\Conferencias - Pro y Materiales Aux\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.pdb
+D:\Study\1Ro\Conferencias - Pro y Materiales Aux\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\Perdedor.exe
+D:\Study\1Ro\Conferencias - Pro y Materiales Aux\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\Proyecto de pro.dll
+D:\Study\1Ro\Conferencias - Pro y Materiales Aux\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\You Win.exe
+D:\Study\1Ro\Conferencias - Pro y Materiales Aux\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\Perdedor.pdb
+D:\Study\1Ro\Conferencias - Pro y Materiales Aux\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\Proyecto de pro.pdb
+D:\Study\1Ro\Conferencias - Pro y Materiales Aux\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\You Win.pdb
+D:\Study\1Ro\Conferencias - Pro y Materiales Aux\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.csprojResolveAssemblyReference.cache
+D:\Study\1Ro\Conferencias - Pro y Materiales Aux\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.planilla.resources
+D:\Study\1Ro\Conferencias - Pro y Materiales Aux\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.Properties.Resources.resources
+D:\Study\1Ro\Conferencias - Pro y Materiales Aux\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.csproj.GenerateResource.Cache
+E:\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe.config
+E:\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.exe
+E:\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.pdb
+C:\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe.config
+C:\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.exe
+C:\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.pdb
+C:\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe
+C:\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.pdb
+C:\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\Perdedor.exe
+C:\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\Proyecto de pro.dll
+C:\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\You Win.exe
+C:\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\Perdedor.pdb
+C:\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\Proyecto de pro.pdb
+C:\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\You Win.pdb
+C:\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.csprojResolveAssemblyReference.cache
+C:\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.planilla.resources
+C:\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.Properties.Resources.resources
+C:\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.csproj.GenerateResource.Cache
+D:\Study1\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe.config
+D:\Study1\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.exe
+D:\Study1\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.pdb
+E:\Study1\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\bin\Debug\Windowsentregar.exe.config
+E:\Study1\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.exe
+E:\Study1\Study\1Ro\Proyectos\Mi Primer Proyecto 2048 - Game\Proyecto de pro\Windowsentregar\obj\Debug\Windowsentregar.pdb
